@@ -8,14 +8,12 @@
 ║    │   └── *.md         a skill is all you need       ║
 ║    └── me.md                                          ║
 ║                                                       ║
-║  > _                                                  ║
-║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-An embarrassingly simple and minimal implementation for agentic memory.
-
-No databases. No embeddings. No semantic search. Just markdown files and a skill that teaches Claude when to read and write.
+> *An embarrassingly simple and minimal implementation for agentic memory.*
+>
+> No databases. No embeddings. No semantic search. Just markdown files and a skill that teaches Claude when to read and write.
 
 ## The Problem
 
