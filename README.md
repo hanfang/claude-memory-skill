@@ -1,4 +1,9 @@
-# Claude Memory Skill
+```
+     _____ _____ _____
+    |     |   __|     |  claude-memory-skill
+    | | | |   __| | | |  ────────────────────
+    |_|_|_|_____|_|_|_|  persistent memory for claude code
+```
 
 A minimal, low-friction memory system for Claude Code.
 
