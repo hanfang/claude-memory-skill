@@ -1,8 +1,13 @@
 ```
-     _____ _____ _____
-    |     |   __|     |  claude-memory-skill
-    | | | |   __| | | |  ────────────────────
-    |_|_|_|_____|_|_|_|  a skill is all you need for memory
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  ~/.claude/memory                                   │
+│  ├── core.md          claude-memory-skill          │
+│  ├── topics/          ───────────────────          │
+│  │   └── *.md         a skill is all you need      │
+│  └── me.md                                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 An embarrassingly simple and minimal implementation for agentic memory.
