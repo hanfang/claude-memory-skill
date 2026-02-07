@@ -20,13 +20,13 @@ A skill-based memory protocol that:
 ## Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/claude-memory/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/hanfang/claude-memory/main/install.sh | bash
 ```
 
 Or clone and run locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-memory.git
+git clone https://github.com/hanfang/claude-memory.git
 cd claude-memory
 ./install.sh
 ```
