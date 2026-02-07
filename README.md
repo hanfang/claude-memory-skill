@@ -2,10 +2,12 @@
      _____ _____ _____
     |     |   __|     |  claude-memory-skill
     | | | |   __| | | |  ────────────────────
-    |_|_|_|_____|_|_|_|  persistent memory for claude code
+    |_|_|_|_____|_|_|_|  a skill is all you need for memory
 ```
 
-A hierarchical, agent-driven memory system for Claude Code.
+An embarrassingly simple and minimal implementation for agentic memory.
+
+No databases. No embeddings. No semantic search. Just markdown files and a skill that teaches Claude when to read and write.
 
 ## The Problem
 
